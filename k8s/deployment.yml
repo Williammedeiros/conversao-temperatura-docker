@@ -23,7 +23,7 @@ spec:
 
 
 ---
-# Deployment da aplicação.
+# Deployment da aplicação..
 
 apiVersion: v1
 kind: Service
